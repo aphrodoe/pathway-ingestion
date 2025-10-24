@@ -1,0 +1,4 @@
+pathway
+kafka-python
+websocket-client
+python-dotenv
